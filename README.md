@@ -35,9 +35,7 @@ WhatsChat provides various features to analyze your chats, including:
 
 You can perform all these analyses on group chats as well as individual chats.
 
-## Demo
 
-You can see the demo of _WhatsChat_ by visiting the following link: [WhatsChat](https://shrudex-whatschat.streamlit.app/)
 
 ## Usage
 
@@ -56,10 +54,6 @@ WhatsChat is deployed on **Streamlit**, which is a platform for building and sha
 ## Contributions
 
 Contributions are always welcome! If you want to contribute to this project, feel free to fork it, make changes, and submit a pull request.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact us at codeshubh@gmail.com.
 
 ## Acknowledgements
 
